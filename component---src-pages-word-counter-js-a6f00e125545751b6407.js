@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{yIgx:function(e,n,t){"use strict";t.r(n);var r=t("q1tI"),a=t.n(r),l=(t("Wbzz"),t("Bl7J")),o=t("vrFN");n.default=function(){return a.a.createElement(l.a,null,a.a.createElement(o.a,{title:"Word Counter"}),a.a.createElement("h1",null,"WordCounter"),a.a.createElement("p",null,"WordCounter "))}}}]);
+//# sourceMappingURL=component---src-pages-word-counter-js-a6f00e125545751b6407.js.map
